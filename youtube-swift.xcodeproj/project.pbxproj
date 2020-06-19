@@ -24,10 +24,6 @@
 		521A4E62249C8356002C131A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		521A4E65249C8356002C131A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		521A4E67249C8356002C131A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		521A4E70249C8356002C131A /* youtube_swiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = youtube_swiftTests.swift; sourceTree = "<group>"; };
-		521A4E72249C8356002C131A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		521A4E7B249C8356002C131A /* youtube_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = youtube_swiftUITests.swift; sourceTree = "<group>"; };
-		521A4E7D249C8356002C131A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,8 +41,6 @@
 			isa = PBXGroup;
 			children = (
 				521A4E58249C8354002C131A /* youtube-swift */,
-				521A4E6F249C8356002C131A /* youtube-swiftTests */,
-				521A4E7A249C8356002C131A /* youtube-swiftUITests */,
 				521A4E57249C8354002C131A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,24 +65,6 @@
 				521A4E67249C8356002C131A /* Info.plist */,
 			);
 			path = "youtube-swift";
-			sourceTree = "<group>";
-		};
-		521A4E6F249C8356002C131A /* youtube-swiftTests */ = {
-			isa = PBXGroup;
-			children = (
-				521A4E70249C8356002C131A /* youtube_swiftTests.swift */,
-				521A4E72249C8356002C131A /* Info.plist */,
-			);
-			path = "youtube-swiftTests";
-			sourceTree = "<group>";
-		};
-		521A4E7A249C8356002C131A /* youtube-swiftUITests */ = {
-			isa = PBXGroup;
-			children = (
-				521A4E7B249C8356002C131A /* youtube_swiftUITests.swift */,
-				521A4E7D249C8356002C131A /* Info.plist */,
-			);
-			path = "youtube-swiftUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
